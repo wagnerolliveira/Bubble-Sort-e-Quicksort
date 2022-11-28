@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603759577 source:c:\users\wagne\onedrive\engenharia de sistemas\2º periodo\aeds ii\bubble sort e quicksort\sort.c
+	<stdio.h>
+
+1603760420 source:c:\users\wagne\onedrive\engenharia de sistemas\2º periodo\aeds ii\bubble sort e quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"sort.h"
+
+1603759978 c:\users\wagne\onedrive\engenharia de sistemas\2º periodo\aeds ii\bubble sort e quicksort\sort.h
+
